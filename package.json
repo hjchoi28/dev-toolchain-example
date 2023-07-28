@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hjchoi28/dev-toolchain-example.git"
+    "url": "git+https://github.com/hwajungch/dev-toolchain-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hjchoi28/dev-toolchain-example/issues"
+    "url": "https://github.com/hwajungch/dev-toolchain-example/issues"
   },
-  "homepage": "https://github.com/hjchoi28/dev-toolchain-example#readme",
+  "homepage": "https://github.com/hwajungch/dev-toolchain-example#readme",
   "dependencies": {
     "three": "^0.149.0"
   },
